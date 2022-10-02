@@ -5,12 +5,12 @@ print(type(A))
 
 print("\n")
 
-B=int(input("Dime un múmero de clase int: "))
+B=int(input("Dime un múmero de tipo int: "))
 print(B, end = ' ')
 print(type(B))
 
 print("\n")
 
-C=float(input("Dime un múmero de clase float: "))
+C=float(input("Dime un múmero de tipo float: "))
 print(C, end = ' ')
 print(type(C))
